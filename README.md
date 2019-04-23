@@ -1,14 +1,13 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Bloomer Starter
+  Gatsby+Bloomer Starter
 </h1>
 
-Kick off your project with this boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This starter is based on Gatsby's default starter, and includes [Bulma](https://www.bulma.io/), an open source CSS framework based on Flexbox, and [Bloomer](https://bloomer.js.org/), a set of React components building upon Bulma. 
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -16,11 +15,11 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to create a new site, specifying this starter.
 
     ```sh
     # create a new Gatsby site using this starter
-    gatsby new my-default-starter https://github.com/VincentDatrier/gatsby-starter-bloomer
+    gatsby new my-new-website https://github.com/VincentDatrier/gatsby-starter-bloomer
     ```
 
 1.  **Start developing.**
@@ -28,7 +27,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd my-default-starter/
+    cd my-new-website/
     gatsby develop
     ```
 
@@ -38,7 +37,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `my-new-website` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
@@ -93,5 +92,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/VincentDatrier/gatsby-starter-bloomer)
-
-<!-- AUTO-GENERATED-CONTENT:END -->

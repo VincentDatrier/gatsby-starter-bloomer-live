@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-bulma",
+  "name": "gatsby-starter-bloomer",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby, Bulma and Bloomer",
   "version": "1.0.0",
@@ -26,7 +26,9 @@
     "prettier": "^1.17.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "bulma",
+    "bloomer"
   ],
   "license": "MIT",
   "scripts": {
@@ -39,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/vincentdatrier/gatsby-starter-bloomer"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/vincentdatrier/gatsby-starter-bloomer/issues"
   }
 }
