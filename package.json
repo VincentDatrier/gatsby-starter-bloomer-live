@@ -22,7 +22,7 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.17.0"
   },
   "keywords": [
